@@ -5,7 +5,7 @@ Este repositorio contiene mi primera tarea del curso de Inteligencia Artificial 
 
 ## Contenidos
 - Archivo README con descripción de la tarea
-- Programa "HOla Mundo" en Python
+- Programa "Hola Mundo" en Python
 
 ## Objetivo
 Crear mi perfil en el ecosistema de desarrollo de la IA
